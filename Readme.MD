@@ -114,4 +114,4 @@ Este proyecto se publica bajo la licencia **MIT**. Consulta el archivo `LICENSE`
 
 - **Tu Nombre** – *Mantenimiento y documentación* – [@Linafierro1](https://github.com/Linafierro1)
 
-> Si este proyecto te resulta útil, considera darle una ⭐️ en GitHub y compartirlo.
+> Si este proyecto te resulta útil, considera darle una ⭐️ en GitHub y compartirlo Gracias.
